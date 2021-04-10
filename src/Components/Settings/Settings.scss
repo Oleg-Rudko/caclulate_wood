@@ -1,0 +1,14 @@
+.settings {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 700px;
+  margin: 0 auto;
+  padding: 0 15px 0 15px;
+  h1 {
+    margin-bottom: 25px;
+  }
+  div {
+    margin-top: 15px;
+  }
+}
