@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/caclulate_wood/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/caclulate_wood/static/js/main.909c9d28.chunk.js",
-    "main.js.map": "/caclulate_wood/static/js/main.909c9d28.chunk.js.map",
+    "main.js": "/caclulate_wood/static/js/main.e0aa2fe2.chunk.js",
+    "main.js.map": "/caclulate_wood/static/js/main.e0aa2fe2.chunk.js.map",
     "runtime-main.js": "/caclulate_wood/static/js/runtime-main.033d19d7.js",
     "runtime-main.js.map": "/caclulate_wood/static/js/runtime-main.033d19d7.js.map",
-    "static/js/2.96e89fb2.chunk.js": "/caclulate_wood/static/js/2.96e89fb2.chunk.js",
-    "static/js/2.96e89fb2.chunk.js.map": "/caclulate_wood/static/js/2.96e89fb2.chunk.js.map",
+    "static/js/2.ea953805.chunk.js": "/caclulate_wood/static/js/2.ea953805.chunk.js",
+    "static/js/2.ea953805.chunk.js.map": "/caclulate_wood/static/js/2.ea953805.chunk.js.map",
     "static/js/3.2ad9a6ca.chunk.js": "/caclulate_wood/static/js/3.2ad9a6ca.chunk.js",
     "static/js/3.2ad9a6ca.chunk.js.map": "/caclulate_wood/static/js/3.2ad9a6ca.chunk.js.map",
     "index.html": "/caclulate_wood/index.html",
     "static/css/main.8c8b27cf.chunk.css.map": "/caclulate_wood/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.96e89fb2.chunk.js.LICENSE.txt": "/caclulate_wood/static/js/2.96e89fb2.chunk.js.LICENSE.txt",
+    "static/js/2.ea953805.chunk.js.LICENSE.txt": "/caclulate_wood/static/js/2.ea953805.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/caclulate_wood/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.033d19d7.js",
-    "static/js/2.96e89fb2.chunk.js",
+    "static/js/2.ea953805.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.909c9d28.chunk.js"
+    "static/js/main.e0aa2fe2.chunk.js"
   ]
 }
