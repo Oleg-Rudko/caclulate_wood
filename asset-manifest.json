@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/calculate_wood/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/calculate_wood/static/js/main.909c9d28.chunk.js",
+    "main.js.map": "/calculate_wood/static/js/main.909c9d28.chunk.js.map",
+    "runtime-main.js": "/calculate_wood/static/js/runtime-main.f486553b.js",
+    "runtime-main.js.map": "/calculate_wood/static/js/runtime-main.f486553b.js.map",
+    "static/js/2.96e89fb2.chunk.js": "/calculate_wood/static/js/2.96e89fb2.chunk.js",
+    "static/js/2.96e89fb2.chunk.js.map": "/calculate_wood/static/js/2.96e89fb2.chunk.js.map",
+    "static/js/3.2ad9a6ca.chunk.js": "/calculate_wood/static/js/3.2ad9a6ca.chunk.js",
+    "static/js/3.2ad9a6ca.chunk.js.map": "/calculate_wood/static/js/3.2ad9a6ca.chunk.js.map",
+    "index.html": "/calculate_wood/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/calculate_wood/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.96e89fb2.chunk.js.LICENSE.txt": "/calculate_wood/static/js/2.96e89fb2.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/calculate_wood/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f486553b.js",
+    "static/js/2.96e89fb2.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.909c9d28.chunk.js"
+  ]
+}
